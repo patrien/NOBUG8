@@ -6,15 +6,15 @@ if score >=0 and score<=100:
 
         print(score,": A")
 
-    elif score >=89 and score<=80 :
+    elif score >=80 :
 
         print(score,": B")
 
-    elif score >=79 and score<=70 :
+    elif score >=70:
 
         print(score,": C")
         
-    elif score >=69 and score<=60 :
+    elif score >=60:
         
         print(score,": D")
 
